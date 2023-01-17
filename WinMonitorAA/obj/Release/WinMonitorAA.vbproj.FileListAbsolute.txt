@@ -1,0 +1,11 @@
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\bin\Release\WinMonitorAA.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\bin\Release\WinMonitorAA.exe
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\bin\Release\WinMonitorAA.pdb
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\bin\Release\WinMonitorAA.xml
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.exe
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.xml
+c:\users\s4lsalsoft\documents\visual studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.pdb
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2015\Projects\WinMonitorAA\WinMonitorAA\obj\Release\WinMonitorAA.vbprojResolveAssemblyReference.cache
